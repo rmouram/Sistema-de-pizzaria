@@ -1,0 +1,4 @@
+[Tipo: Doce|| Sabor: chocolate|| Preço: 37|| Qtd de vendas: 13]
+[Tipo: Salgada|| Sabor: marguerita|| Preço: 35|| Qtd de vendas: 5]
+[Tipo: Salgada|| Sabor: calabresa|| Preço: 20|| Qtd de vendas: 0]
+[Tipo: Doce|| Sabor: abacaxi|| Preço: 20|| Qtd de vendas: 8]

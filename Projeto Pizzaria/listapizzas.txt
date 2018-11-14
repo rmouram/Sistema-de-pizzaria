@@ -1,0 +1,6 @@
+[Tipo: Salgada|| Sabor: marguerita|| Preço: 35]
+[Tipo: Doce|| Sabor: chocolate|| Preço: 37]
+[Tipo: null|| Sabor: lua|| Preço: 23]
+[Tipo: Salgada|| Sabor: calabresa|| Preço: 20]
+[Tipo: Doce|| Sabor: abacaxi|| Preço: 20]
+[Tipo: Salgada|| Sabor: Vida Boa|| Preço: 35]
